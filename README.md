@@ -8,8 +8,39 @@ This project is designed to showcase:
 * Clean project structure
 * Clear mathematical intuition
 * Practical modeling and evaluation
+---
+
+## 📑 Table of Contents
+
+1. [Project Overview](#-linear-regression-from-scratch--end-to-end-ml-project)
+2. [Project Objective](#-project-objective)
+3. [Why Linear Regression?](#-why-linear-regression)
+4. [Project Structure](#-project-structure)
+
+   * [Folder Explanation](#folder-explanation)
+5. [Dataset Information](#-dataset-information)
+6. [Exploratory Data Analysis (EDA)](#-exploratory-data-analysis-eda)
+
+   * [Key EDA Steps](#key-eda-steps)
+7. [Data Preprocessing](#-data-preprocessing)
+8. [Linear Regression — Theory & Intuition](#-linear-regression--theory--intuition)
+
+   * [Model Equation](#model-equation)
+   * [Objective Function (MSE)](#objective-function-mse)
+   * [Optimization](#optimization)
+9. [Model Implementations](#-model-implementations)
+
+   * [Linear Regression From Scratch](#1️⃣-linear-regression-from-scratch)
+   * [Linear Regression using scikit-learn](#2️⃣-linear-regression-using-scikit-learn)
+10. [Model Evaluation](#-model-evaluation)
+
+    * [Interpretation](#interpretation)
+11. [Residual Analysis & Assumptions](#-residual-analysis--assumptions)
+12. [Model Limitations](#️-model-limitations)
+13. [Possible Improvements](#-possible-improvements)
 
 ---
+
 
 ## 🚀 Project Objective
 
