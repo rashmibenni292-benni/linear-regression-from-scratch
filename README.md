@@ -8,7 +8,6 @@ This project is designed to showcase:
 * Clean project structure
 * Clear mathematical intuition
 * Practical modeling and evaluation
-* Interview-ready explanations
 
 ---
 
@@ -33,8 +32,6 @@ Linear Regression is one of the most important models in Machine Learning becaus
 * It builds strong intuition about optimization and loss functions
 * It helps understand assumptions behind models
 * It serves as a **baseline** for more complex algorithms
-
-Interviewers often use Linear Regression to test **depth of understanding**, not complexity.
 
 ---
 
