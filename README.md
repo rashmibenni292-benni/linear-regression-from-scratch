@@ -79,8 +79,6 @@ linear-regression-from-scratch/
 │
 ├── src/
 │   ├── linear_regression_scratch.py
-│   ├── preprocessing.py
-│   └── evaluation.py
 │
 ├── README.md
 └── requirements.txt
